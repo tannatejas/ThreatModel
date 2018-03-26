@@ -730,9 +730,19 @@
                 "id": "ffbe1e11-cab3-4423-af6a-927a6a89404a"
               },
               "target": {
-                "id": "8b042d86-0434-4f20-9d7b-4430d84fd17a"
+                "x": 593,
+                "y": 128
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 634,
+                  "y": 92
+                },
+                {
+                  "x": 599,
+                  "y": 125
+                }
+              ],
               "id": "2f5404cf-3896-43d5-bb2a-b25c87ad1d19",
               "labels": [
                 {
@@ -789,6 +799,45 @@
                 }
               ],
               "z": 22,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "8b042d86-0434-4f20-9d7b-4430d84fd17a"
+              },
+              "target": {
+                "id": "ffbe1e11-cab3-4423-af6a-927a6a89404a"
+              },
+              "vertices": [
+                {
+                  "x": 662,
+                  "y": 105
+                }
+              ],
+              "id": "3411c102-7f70-4f79-9c44-75f288980f7c",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "SSH",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 23,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
