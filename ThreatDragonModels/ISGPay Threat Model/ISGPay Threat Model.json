@@ -785,8 +785,16 @@
               },
               "vertices": [
                 {
+                  "x": 610,
+                  "y": 164
+                },
+                {
                   "x": 667,
                   "y": 131
+                },
+                {
+                  "x": 675,
+                  "y": 116
                 }
               ],
               "id": "3411c102-7f70-4f79-9c44-75f288980f7c",
@@ -894,6 +902,27 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 291,
+                "y": 454
+              },
+              "target": {
+                "x": 242,
+                "y": 42
+              },
+              "vertices": [
+                {
+                  "x": 209,
+                  "y": 232
+                }
+              ],
+              "id": "0f6bc0a4-0cfe-412b-9200-6c316f679f43",
+              "z": 26,
+              "attrs": {}
             }
           ]
         },
