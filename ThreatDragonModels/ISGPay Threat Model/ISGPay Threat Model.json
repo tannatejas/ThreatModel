@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "ISGPay Threat Model",
+    "owner": "Tejas Tanna",
+    "description": "Threat Model for ISGPAY"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Melroy D."
+  }
+}
